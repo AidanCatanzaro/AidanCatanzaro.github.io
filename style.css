@@ -26,8 +26,6 @@ header {
 }
 main {
     background-color:yellow;
-    height:1000px;
-    width: 1200px;
     min-height:600px;
 }
 footer {
